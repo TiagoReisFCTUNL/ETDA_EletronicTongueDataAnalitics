@@ -1,0 +1,11 @@
+experiment_dir,D:\fct\5ano\0tese\data\eletrode2
+show_pca_calculations,True
+plt_3d_view,False
+plt_3d_calibration,True
+calibrate_with_control_sample,"{'b_estradial_tapWater_8_pei_go': False, 'b_estradial_tapWater_10_pei_mwcnt': False}"
+exclude_film_name,[]
+project_samples,"{'b_estradial_tapWater_8_pei_go': [['b_estradial_tapWater_8'], ['b_estradial_tapWater_8_pei_go1', 'b_estradial_tapWater_8_pei_go2', 'b_estradial_tapWater_8_pei_go3']], 'b_estradial_tapWater_10_pei_mwcnt': [['b_estradial_tapWater_10'], ['b_estradial_tapWater_10_pei_mwcnt1', 'b_estradial_tapWater_10_pei_mwcnt2', 'b_estradial_tapWater_10_pei_mwcnt3']]}"
+domains_labels,['losses_tangent']
+first_concentration,"{'b_estradial_tapWater_8_pei_go': '9', 'b_estradial_tapWater_10_pei_mwcnt': '9'}"
+skip,"{'b_estradial_tapWater_8_pei_go': '3', 'b_estradial_tapWater_10_pei_mwcnt': '3'}"
+plot_options_dict,"{'b_estradial_tapWater_8_pei_go_show_all': False, 'b_estradial_tapWater_8_pei_go_show_linear_scale': True, 'b_estradial_tapWater_8_pei_go_show_db': False, 'b_estradial_tapWater_8_pei_go_show_max_variance': True, 'b_estradial_tapWater_8_pei_go_show_normal_pc1': False, 'b_estradial_tapWater_8_pei_go_show_pc1_sample1_weight': False, 'b_estradial_tapWater_8_pei_go_show_pc1_sample1_normalization': False, 'b_estradial_tapWater_8_pei_go_show_pc1_sample1_weight_normalization': True, 'b_estradial_tapWater_10_pei_mwcnt_show_all': False, 'b_estradial_tapWater_10_pei_mwcnt_show_linear_scale': True, 'b_estradial_tapWater_10_pei_mwcnt_show_db': False, 'b_estradial_tapWater_10_pei_mwcnt_show_max_variance': True, 'b_estradial_tapWater_10_pei_mwcnt_show_normal_pc1': False, 'b_estradial_tapWater_10_pei_mwcnt_show_pc1_sample1_weight': False, 'b_estradial_tapWater_10_pei_mwcnt_show_pc1_sample1_normalization': False, 'b_estradial_tapWater_10_pei_mwcnt_show_pc1_sample1_weight_normalization': True}"

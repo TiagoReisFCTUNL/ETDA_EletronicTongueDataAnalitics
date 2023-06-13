@@ -1,0 +1,1 @@
+python -m PyInstaller --hidden-import sklearn.metrics._pairwise_distances_reduction._datasets_pair --hidden-import sklearn.metrics._pairwise_distances_reduction._middle_term_computer -F -w -i Icon.ico -n ETDA main.py
